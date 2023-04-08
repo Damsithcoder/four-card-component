@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     background-color:  hsl(0, 0%, 98%);
-    min-height: 800px;
+    min-height: 100vh;
       
     text-align: center;
 }
